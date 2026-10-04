@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "name": "ARTHRAKSHA",
+    "tagline": "Detect. Explain. Warn. Protect.",
+    "subtitle": "AI-Powered Financial Scam, Fraud & Investor Protection Platform"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "scamChecker": "Scam Message Checker",
+    "claimChecker": "Claim Checker",
+    "phoneChecker": "Phone Checker",
+    "accountChecker": "Account / UPI Risk",
+    "transactions": "Transaction Analyzer",
+    "fraudNetwork": "Fraud Network Graph",
+    "fraudRings": "Fraud Rings & Mules",
+    "communityReports": "Community Reports",
+    "alerts": "Alerts & Notifications",
+    "analyst": "Analyst Studio",
+    "admin": "Admin Control",
+    "privacy": "Privacy Center",
+    "settings": "Settings",
+    "primaryDemo": "1-Click Demo Flow"
+  },
+  "risk": {
+    "safe": "SAFE",
+    "caution": "CAUTION",
+    "suspicious": "SUSPICIOUS",
+    "highRisk": "HIGH RISK"
+  },
+  "actions": {
+    "check": "Analyze Risk",
+    "checkScam": "Check Message",
+    "checkPhone": "Check Phone",
+    "checkAccount": "Check Account / UPI",
+    "readAloud": "Read Aloud (Voice)",
+    "sendAlert": "Send Alert (SMS/WhatsApp)",
+    "submitReport": "Submit Fraud Report",
+    "viewGraph": "Inspect in Network Graph",
+    "clear": "Clear"
+  },
+  "disclaimer": "Risk assessment only. This is not investment advice. ARTHRAKSHA does not recommend stocks or speculative products."
+}
